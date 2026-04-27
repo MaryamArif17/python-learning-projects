@@ -1,9 +1,22 @@
-
 # Python Learning Projects
 
-This repository contains my beginner-level Python projects.
+A collection of beginner Python projects built while learning programming fundamentals.
 
-## Project 1: Student Management System
-- Uses functions, lists, and dictionaries
-- Allows adding students
-- Displays and analyzes student data
+## Projects
+
+### Student Management System (Version 1)
+A simple console-based program to manage student records.
+
+**Features:**
+- Add students with their marks
+- Display all students
+- Pass/Fail result system
+- Count total students
+- Calculate average marks
+- Find highest marks
+
+**Concepts Used:** Functions, Lists, Dictionaries, Loops, Conditionals
+
+**What I Learned:**
+How to store data using dictionaries, organize code into functions,
+and build a simple data analysis program.
